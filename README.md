@@ -37,4 +37,4 @@ npm run build
 🎯 Learning Goals
 - Vue 3 컴포넌트 구조 이해
 - 양방향 바인딩과 이벤트 흐름 구현
-- 계산기 UI와 상태 흐름 직접 설계
+- 계산기 UI와 상태 흐름 설계
