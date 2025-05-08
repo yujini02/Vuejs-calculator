@@ -7,27 +7,28 @@ It supports basic arithmetic operations and demonstrates core frontend concepts 
 - Event handling with `@click`
 - Component state management using `data`, `methods`
 
-## Recommended IDE Setup
+## 💻 Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+
+## ⚙️ Customize Configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 📦 Project Setup
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Development Server
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Build for Production
 
 ```sh
 npm run build
