@@ -1,6 +1,11 @@
-# calculatorTest
+# 🧮 Vue.js Calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple calculator built with **Vue.js 3** and **Vite**.  
+It supports basic arithmetic operations and demonstrates core frontend concepts like:
+
+- Two-way data binding (`v-model`)
+- Event handling with `@click`
+- Component state management using `data`, `methods`
 
 ## Recommended IDE Setup
 
